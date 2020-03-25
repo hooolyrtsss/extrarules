@@ -1,9 +1,9 @@
 host, archiveofourown.org, proxy
 host, mtslash.me, proxy
 host, ebook.longma.com, proxy
-host, pixiv.org, proxy
-host, pixiv.net, proxy
-host, pximg.net, proxy
+host-suffix, pixiv.org, proxy
+host-suffix, pixiv.net, proxy
+host-suffix, pximg.net, proxy
 
 # 养鸡场
 host, xn--6oqt8tby6a.com, proxy
