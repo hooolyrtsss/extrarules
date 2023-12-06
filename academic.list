@@ -15,6 +15,7 @@ DOMAIN-KEYWORD,westlawchina
 DOMAIN-SUFFIX,doi.org
 
 # SCI 综合
+DOMAIN-SUFFIX,cell.com
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,blackwell-synergy.com
